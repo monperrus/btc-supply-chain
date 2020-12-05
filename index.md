@@ -2,16 +2,18 @@ A public page to let Google index the SHA256 of Bitcoin-related software on a va
 
 ## Wasabi
 
-* Version() 1.1.12.2: df2c619a921142ec93ee0b224a59ccfe0c06f46131942a2add07870b99aa430d
-* Version() 1.1.12.2: 8e69d483b1dd5a864c19a84efe5fde8589b9375e6f5c8fc7c47b0b23e34a51e6
-* Version() 1.1.12.2: 121115ca087b95b5431d5d9c162bfc1a47f6d497e0ac622a121056c3a50c99a5
-* Version(standalone (linux+windows)) 1.1.12.2: 595ccad44004b3dbc8d80d1305226758ea7d03ea941ad5f3f76f786d89b0875a
+* Version(deb) 1.1.12.3: 9497a69b5e08c19f306374caf094e92c0dec274c0ec33dfe3b71b41dce2174af
+* Version(dmg) 1.1.12.3: 3e69fe17a51de9ffb62ebb4015587e707be5bd716908756d9f42603ad62b11ab
+* Version(msi) 1.1.12.3: 69c9cfe69fd59692e73f80f81f2a6b2b425a6bbe5f907042bbf83b998158b477
+* Version(standalone) 1.1.12.3: 5d33286067871e5acab8966b2a521bc76d9df5804cc2c20e96abdcc663c58ff4
 
 ## Electrum
 
-* Version(ELF 64-bit LSB executable, x86-64) 4.0.4: c6fc29f5575b4272e6d653dcd38128ed8788949688c598d414ed606ee0408790
-* Version(PE32 executable (GUI) Intel 80386) 4.0.4: 4ad8486461b9fab8cd0ef26af69f8d6d825ffcefa5f594b72c0f859eaa95de56
-* Version(mac) 4.0.4: 39f09e721aecec9b324ce1daf4ec5dd5b2403acce552c178bcbe61dc7503e006
+* Version(portable.exe) 4.0.8: 574e93ea1834c455c96c5a448886e55bf396d756d0b722b86f043a2508bd32a3
+* Version(setup.exe) 4.0.8: 53aea68e9eea2c66fd24671b650e9eb5824785e7d8cb7ea1ba0a28ae5009078e
+* Version(x86_64.AppImage) 4.0.8: 599d27a84880d215533d2e6aec6274b165c42cc01a5f703eba49f96d227cc1a6
+* Version(dmg) 4.0.8: 0a84c5e36ad8050e413f6beb0264a41a16facdb8a1ba88cd721f29d448309e87
+* Version(exe) 4.0.8: fdf7654fa415669c3e9ab1024a86e08797b3995ba6b92f0fececb410a6ba0a66
 
 ## BTCD
 
